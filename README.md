@@ -8,22 +8,23 @@ A modern **Financial Platform** built with the **MERN stack**, featuring **AI-po
 
 ### **Landing Page**
 
-*(Attach image here)*
-![Landing Page](Users\skhan\Downloads\Landing Page.jpg")
+![Landing Page](https://github.com/user-attachments/assets/1d917242-a6fc-4c0e-8903-cd4dd0129ce7)
+
 
 ---
 
 ### **Login Page**
 
-*(Attach image here)*
-`![Login Page](path/to/image)`
+<img width="1892" height="956" alt="Screenshot 2025-11-22 234822" src="https://github.com/user-attachments/assets/fec8d236-4ad6-485f-9b98-6d538c2cc841" />
+
 
 ---
 
 ### **Transactions Dashboard**
 
 *(Attach image here)*
-`![Transaction Page](path/to/image)`
+<img width="1057" height="489" alt="Screenshot 2025-11-22 233530" src="https://github.com/user-attachments/assets/aa77922c-005b-4503-ad62-49d65fac4206" />
+
 
 ---
 
