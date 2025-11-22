@@ -1,1 +1,8 @@
-.
+Backend : 
+Node.js
+Express.js
+TypeScript
+MongoDB + Mongoose
+JSON Web Tokens (JWT)
+Stripe API (subscriptions)
+Resend API (email service)
