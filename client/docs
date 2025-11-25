@@ -1,0 +1,10 @@
+Frontend Dependencies Overview
+
+1. React (via Vite)
+2. Tailwind CSS
+3. Axios
+4. Zod
+5. Resend
+6. JWT Decode (client-side token parsing)
+7. TypeScript
+8. Vite plugins and tools
