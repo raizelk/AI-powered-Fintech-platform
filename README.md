@@ -22,7 +22,6 @@ A modern **Financial Platform** built with the **MERN stack**, featuring **AI-po
 
 ### **Transactions Dashboard**
 
-*(Attach image here)*
 <img width="1057" height="489" alt="Screenshot 2025-11-22 233530" src="https://github.com/user-attachments/assets/aa77922c-005b-4503-ad62-49d65fac4206" />
 
 
